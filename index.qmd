@@ -7,7 +7,7 @@ subtitle: "POLS 2311 · Fall 2026 · Mondays and Wednesdays, 1:00–2:20 PM, Ned
 
 Course materials, grades, and quizzes are on [Canvas](https://oit.uta.edu/canvas/). This site provides the course overview, schedule, and lecture slides.
 
-[{{< bi file-earmark-pdf >}} Download the Syllabus (PDF)](files/POLS2311-syllabus.pdf){.btn .btn-primary .btn-lg role="button" download=""}
+[<i class="bi bi-file-earmark-pdf"></i> View the Syllabus (PDF)](files/POLS2311syllabus.pdf){.btn .btn-primary .btn-lg role="button" target="_blank"}
 
 ## Course Description
 
