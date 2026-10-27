@@ -2,28 +2,28 @@
 title: "Schedule & Slides"
 ---
 
-Readings are chapters from Wilson et al., *American Government* (18th ed.), plus the linked primary documents. Lecture slides are posted as PDFs.
+Readings are chapters from Wilson et al., *American Government* (18th ed.), plus the linked primary documents. Lecture slides open in your browser; press **F** for full screen and **Esc** for a slide overview.
 
 ## Part I: The Constitutional Order and the American Political System
 
 | Week | Dates | Topic | Readings | Slides |
 |---|---|---|---|---|
-| 1 | Aug 17–19 | Course Introduction and the Study of American Government | Ch. 1 | [PDF](slides/01-gov.pdf) |
-| 2 | Aug 24–26 | The Constitution | Ch. 2; [Declaration of Independence](https://constitutioncenter.org/declaration/interactive-declaration); [Constitution](https://constitutioncenter.org/the-constitution); [Federalist 10](https://constitutioncenter.org/the-constitution/historic-document-library/detail/james-madison-federalist-10-1788); [Federalist 51](https://constitutioncenter.org/the-constitution/historic-document-library/detail/james-madison-federalist-no-51-1788) | [PDF](slides/02-constitution.pdf) |
-| 3 | Aug 31–Sept 2 | Federalism *(No class Wed, Sept 2)* | Ch. 3 | [PDF](slides/03-federalism.pdf) |
-| 4 | Sept 7–9 | Civil Liberties *(No class Mon, Sept 7)* | Ch. 5 | [PDF](slides/04-civil-liberties.pdf) |
-| 5 | Sept 14–16 | Civil Rights | Ch. 6 | [PDF](slides/05-civil-rights.pdf) |
-| 6 | Sept 21–23 | Political Culture · **Exam 1: Wed, Sept 23** | Ch. 4 | [PDF](slides/06-culture.pdf) |
+| 1 | Aug 17–19 | Course Introduction and the Study of American Government | Ch. 1 | [Slides](slides/01-gov.html){target="_blank"} |
+| 2 | Aug 24–26 | The Constitution | Ch. 2; [Declaration of Independence](https://constitutioncenter.org/declaration/interactive-declaration); [Constitution](https://constitutioncenter.org/the-constitution); [Federalist 10](https://constitutioncenter.org/the-constitution/historic-document-library/detail/james-madison-federalist-10-1788); [Federalist 51](https://constitutioncenter.org/the-constitution/historic-document-library/detail/james-madison-federalist-no-51-1788) | [Slides](slides/02-constitution.html){target="_blank"} |
+| 3 | Aug 31–Sept 2 | Federalism *(No class Wed, Sept 2)* | Ch. 3 | [Slides](slides/03-federalism.html){target="_blank"} |
+| 4 | Sept 7–9 | Civil Liberties *(No class Mon, Sept 7)* | Ch. 5 | [Slides](slides/04-civil-liberties.html){target="_blank"} |
+| 5 | Sept 14–16 | Civil Rights | Ch. 6 | [Slides](slides/05-civil-rights.html){target="_blank"} |
+| 6 | Sept 21–23 | Political Culture · **Exam 1: Wed, Sept 23** | Ch. 4 | [Slides](slides/06-culture.html){target="_blank"} |
 
 ## Part II: Formal Institutions
 
 | Week | Dates | Topic | Readings | Slides |
 |---|---|---|---|---|
-| 7 | Sept 28–30 | Congress | Ch. 13; [Constitution](https://constitutioncenter.org/the-constitution), Article I; [Federalist 55](https://constitutioncenter.org/the-constitution/historic-document-library/detail/james-madison-federalist-no-55-1788); [Federalist 62](https://www.senate.gov/about/origins-foundations/idea-of-the-senate/1787Federalist62.htm) | [PDF](slides/07-congress.pdf) |
-| 8 | Oct 5–7 | The Presidency | Ch. 14; [Constitution](https://constitutioncenter.org/the-constitution), Article II; [Federalist 68, 70, 72](https://constitutioncenter.org/the-constitution/historic-document-library/detail/alexander-hamilton-federalist-68-70-72-1788) | [PDF](slides/08-presidency.pdf) |
-| 9 | Oct 12–14 | The Bureaucracy | Ch. 15 | [PDF](slides/09-bureaucracy.pdf) |
-| 10 | Oct 19–21 | The Judiciary | Ch. 16; [Constitution](https://constitutioncenter.org/the-constitution), Article III; [Federalist 78](https://constitutioncenter.org/the-constitution/historic-document-library/detail/alexander-hamilton-federalist-no-78-1788) | [PDF](slides/10-courts.pdf) |
-| 11 | Oct 26–28 | Economic Policy and the Federal Budget · **Exam 2: Wed, Oct 28** | Ch. 18; [Introduction to the Federal Budget Process](https://www.cbpp.org/research/federal-budget/introduction-to-the-federal-budget-process) | [PDF](slides/11-budget.pdf) |
+| 7 | Sept 28–30 | Congress | Ch. 13; [Constitution](https://constitutioncenter.org/the-constitution), Article I; [Federalist 55](https://constitutioncenter.org/the-constitution/historic-document-library/detail/james-madison-federalist-no-55-1788); [Federalist 62](https://www.senate.gov/about/origins-foundations/idea-of-the-senate/1787Federalist62.htm) | [Slides](slides/07-congress.html){target="_blank"} |
+| 8 | Oct 5–7 | The Presidency | Ch. 14; [Constitution](https://constitutioncenter.org/the-constitution), Article II; [Federalist 68, 70, 72](https://constitutioncenter.org/the-constitution/historic-document-library/detail/alexander-hamilton-federalist-68-70-72-1788) | [Slides](slides/08-presidency.html){target="_blank"} |
+| 9 | Oct 12–14 | The Bureaucracy | Ch. 15 | [Slides](slides/09-bureaucracy.html){target="_blank"} |
+| 10 | Oct 19–21 | The Judiciary | Ch. 16; [Constitution](https://constitutioncenter.org/the-constitution), Article III; [Federalist 78](https://constitutioncenter.org/the-constitution/historic-document-library/detail/alexander-hamilton-federalist-no-78-1788) | [Slides](slides/10-courts.html){target="_blank"} |
+| 11 | Oct 26–28 | Economic Policy and the Federal Budget · **Exam 2: Wed, Oct 28** | Ch. 18; [Introduction to the Federal Budget Process](https://www.cbpp.org/research/federal-budget/introduction-to-the-federal-budget-process) | [Slides](slides/11-budget.html){target="_blank"} |
 
 ## Part III: Individual Agency and Mediating Institutions
 

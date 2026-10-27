@@ -1,19 +1,15 @@
 #!/bin/zsh
-# Convert lecture .pptx files to PDF (via Microsoft PowerPoint) and re-render the site.
-# Usage: ./update-slides.sh            # all lectures
-#        ./update-slides.sh 12-public-opinion   # one lecture
+# Render lecture .qmd files to self-contained reveal.js HTML and re-render the site.
+# Usage: ./update-slides.sh                     # all lectures that have slides posted
+#        ./update-slides.sh 12-public-opinion   # one lecture (new or updated)
 cd "${0:A:h}"
 LECT="${0:A:h}/../lectures"
 OUT="${0:A:h}/slides"
-if [[ -n "$1" ]]; then files=("$LECT/$1.pptx"); else files=("$LECT"/[01]*.pptx); fi
-for f in $files; do
-  b=${f:t:r}
-  [[ $b == 00-syllabus ]] && continue
-  osascript -e "tell application \"Microsoft PowerPoint\"
-    open POSIX file \"$f\"
-    set p to active presentation
-    save p in POSIX file \"$OUT/$b.pdf\" as save as PDF
-    close p saving no
-  end tell" && echo "✓ $b.pdf"
+if [[ -n "$1" ]]; then names=("$1"); else names=("$OUT"/*.html(:t:r)); fi
+cd "$LECT"
+for b in $names; do
+  quarto render "$b.qmd" --to revealjs -M embed-resources:true -o "web-$b.html" >/dev/null 2>&1 \
+    && mv "web-$b.html" "$OUT/$b.html" && echo "✓ $b.html" || echo "✗ $b failed"
 done
+cd "${0:A:h}"
 quarto render
