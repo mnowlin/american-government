@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - files/
+    - slides/
 
 website:
   title: "POLS 2311: Government of the United States"
@@ -11,7 +12,7 @@ website:
       - href: index.qmd
         text: Home
       - href: schedule.qmd
-        text: Schedule
+        text: Schedule & Slides
     right:
       - icon: envelope
         href: mailto:matthew.nowlin@uta.edu
