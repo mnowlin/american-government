@@ -1,0 +1,41 @@
+---
+title: "Government of the United States"
+subtitle: "POLS 2311 · Fall 2026 · Mondays and Wednesdays, 1:00–2:20 PM, Nedderman Hall 100"
+---
+
+**Instructor:** Dr. Matthew C. Nowlin ([matthew.nowlin@uta.edu](mailto:matthew.nowlin@uta.edu)) · [matthewcnowlin.com](https://www.matthewcnowlin.com/)
+
+Course materials, grades, and quizzes are on [Canvas](https://oit.uta.edu/canvas/). This site provides the course overview, schedule, and lecture slides.
+
+## Course Description
+
+This course is designed to introduce students to the core concepts of American (US) government and politics. The emphasis of this course will be placed on approaching topics associated with government and politics as _social scientists_; therefore, this course will be organized around social science concepts and methods.
+
+The course consists of three parts:
+
+**Part I: The Constitutional Order and the American Political System**
+
+The first part of the course provides a foundational understanding of the system of government in the United States, including the Declaration of Independence, the Constitution and its origins, the US system of federalism, civil liberties, civil rights, and political culture.
+
+**Part II: Formal Institutions**
+
+The second part of the course examines the formal institutions of the US federal government, including Congress, the presidency, the bureaucracy, and the courts. We end this part of the course with a discussion of the federal budget.
+
+**Part III: Individual Agency and Mediating Institutions**
+
+Finally, in the third part of the course we discuss individual agency and actions in the US context. In this section, we will discuss public opinion and political participation. Building up from individuals, we then move to mediating institutions, which are institutions that exist between individuals and the government. These include political parties, elections and campaigns, and interest groups.
+
+## Student Learning Outcomes
+
+By the end of this course, you will be able to:
+
+1. Identify and explain the central principles, institutions, procedures, and decision-making processes of the American political system.
+2. Evaluate the basic strengths and weaknesses of the American political system through the application of political concepts and ideas.
+3. Relate historical events and/or developments to contemporary political issues, debates, and outcomes in the United States.
+4. Develop an analytical, social science disposition toward American politics.
+
+## Required Text
+
+Wilson, James, John DiIulio Jr., Meena Bose, and Matthew Levendusky. 2025. *American Government: Institutions & Policies*. 18th ed. Cengage Learning.
+
+See the [schedule](schedule.qmd) for weekly readings and lecture slides.

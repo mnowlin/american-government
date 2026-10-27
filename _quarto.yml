@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "POLS 2311: Government of the United States"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Schedule
+    right:
+      - icon: envelope
+        href: mailto:matthew.nowlin@uta.edu
+  page-footer:
+    center: "Dr. Matthew C. Nowlin · The University of Texas at Arlington · Fall 2026"
+
+format:
+  html:
+    theme: cosmo
+    toc: false

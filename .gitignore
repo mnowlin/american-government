@@ -1,0 +1,7 @@
+.quarto/
+.DS_Store
+# lecture PDFs held back from the public site for now
+slides/
+
+/.quarto/
+**/*.quarto_ipynb
