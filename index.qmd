@@ -38,6 +38,8 @@ By the end of this course, you will be able to:
 
 ## Required Text
 
-Wilson, James, John DiIulio Jr., Meena Bose, and Matthew Levendusky. 2025. *American Government: Institutions & Policies*. 18th ed. Cengage Learning.
+Wilson, James, John DiIulio Jr., Meena Bose, and Matthew Levendusky. 2025. [*American Government: Institutions & Policies*](https://www.cengage.com/c/american-government-institutions-policies-18e-wilson-dilulio-bose-levendusky/9798214146225). 18th ed. Cengage Learning.
+
+The textbook is available from [Cengage](https://www.cengage.com/c/american-government-institutions-policies-18e-wilson-dilulio-bose-levendusky/9798214146225) or the [UTA Bookstore](https://texasatarlington.bkstr.com).
 
 See the [schedule](schedule.qmd) for weekly readings and lecture slides.
