@@ -29,7 +29,7 @@ Readings are chapters from Wilson et al., *American Government* (18th ed.), plus
 
 | Week | Dates | Topic | Readings | Slides |
 |---|---|---|---|---|
-| 12 | Nov 2–4 | Public Opinion | Ch. 7 | |
+| 12 | Nov 2–4 | Public Opinion | Ch. 7 | [Slides](slides/12-public-opinion.html){target="_blank"} |
 | 13 | Nov 9–11 | Political Participation | Ch. 8 | |
 | 14 | Nov 16–18 | Political Parties | Ch. 9 | |
 | 15 | Nov 23–25 | Elections and Campaigns *(No class Wed, Nov 25)* | Ch. 10 | |
